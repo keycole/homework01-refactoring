@@ -84,6 +84,11 @@ h2 {
     font-size: 36px;
 }
 
+p {
+    font-size: 16px; /*Font size should be a minimum of 12pt to facilitate readability.*/
+    line-height: 24px; /*Assign ample line height (1.5 x font-size) to facilitate readability.*/  */
+}
+
 .float-right {
     float: right;
     margin-left: 25px;
