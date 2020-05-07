@@ -106,11 +106,6 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-description {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
 h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -120,6 +115,11 @@ h3 {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+}
+
+.benefit-description {
+    margin-bottom: 32px;
+    color: #ffffff;
 }
 
 /*Styling fot the footer at the bottom of the page */
