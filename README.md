@@ -1,4 +1,5 @@
 Code changes made to index.html
+
 Line 5 - Inserted standard meta info.
 
 Line 7 - Added a clear, concise, relevant title to the page.
@@ -33,6 +34,7 @@ Line 84 - Changed div to footer using semantic HTML.
 
 
 Code changes made to ./assets/css/style.css
+
 Overall: 
 - Reorganized the order so that style rules are listed in the order that they appear in the HTML file.
 - Removed redundant style rules.
