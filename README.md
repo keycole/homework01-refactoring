@@ -31,7 +31,7 @@ Line 38, 45, 42  - Added a name to enable anchor tag functionality.
 
 Line 59 - Changed div to aside using semantic HTML and modified class name.
 
-Line 60, 68, 75 - Change dive to article and modify class to consolidate the class name for all children of the aside.
+Line 60, 68, 75 - Change div to article and modify class to consolidate the class name for all children of the aside.
 
 Line 63, 70, 77 - Added empty alt tags to instruct screen readers to skip icons that do not add to the information on the page.
 
@@ -60,9 +60,9 @@ Line 51 - Moved image file into the HTML file.
 
 Line 58 - Renamed class products to be reflective of the purpose of the section.
 
-Line 64 - Consilidated all children of the products section into one class: product-definition. Deleted redundant styling rules.
+Line 64 - Consolidated all children of the products section into one class: product-definition. Deleted redundant styling rules.
 
-Line 73 - Consilidated all children of the products section into one class: product-definition. Deleted redundant img styling rules.
+Line 73 - Consolidated all children of the products section into one class: product-definition. Deleted redundant img styling rules.
 
 Line 82 - Consolidated all h2 styling rules into one.
 
@@ -70,9 +70,9 @@ Line 98 - Changed class name to benefits to better describe the purpose of the a
 
 Line 109 - Consolidated all h3 styling rules into one.
 
-Line 114 - Consilidated all children of the benefits aside into one class: benefit-description. Deleted redundant img styling rules.
+Line 114 - Consolidated all children of the benefits aside into one class: benefit-description. Deleted redundant img styling rules.
 
-Line 120 - Consilidated all children of the benefits aside into one class: benefit-description. Deleted redundant styling rules.
+Line 120 - Consolidated all children of the benefits aside into one class: benefit-description. Deleted redundant styling rules.
 
 Line 126 - Changed selector to footer.
 
