@@ -1,3 +1,5 @@
+HTML CSS Git: Code Refactor Homework
+
 Code changes made to index.html
 
 Line 5 - Inserted standard meta info.
@@ -20,17 +22,20 @@ Line 34 - Changed div to section using semantic HTML and renamed class.
 
 Line 35 - Changed div to article using semantic HTML and renamed class to consolidate the class name for all children of the section.
 
-Line 36, 43, 50 - Added alt text for the image.
+Lines 36, 43, 50, 60, 68, 75 - Add tabindex to make non-focusable code focusable via the tab key.
 
-Line 37, 44, 41  - Added a name to enable anchor tag functionality.
 
-Line 58 - Changed div to aside using semantic HTML and modified class name.
+Line 37, 44, 51 - Added alt text for the image.
 
-Line 59, 67, 74 - Change dive to article and modify class to consolidate the class name for all children of the aside.
+Line 38, 45, 42  - Added a name to enable anchor tag functionality.
 
-Line 62, 69, 76 - Added empty alt tags to instruct screen readers to skip icons that do not add to the information on the page.
+Line 59 - Changed div to aside using semantic HTML and modified class name.
 
-Line 84 - Changed div to footer using semantic HTML.
+Line 60, 68, 75 - Change dive to article and modify class to consolidate the class name for all children of the aside.
+
+Line 63, 70, 77 - Added empty alt tags to instruct screen readers to skip icons that do not add to the information on the page.
+
+Line 85 - Changed div to footer using semantic HTML.
 
 
 Code changes made to ./assets/css/style.css
